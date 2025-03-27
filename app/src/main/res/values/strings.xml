@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyHomeTVService</string>
+    <string name="accessibility_service_description">Sniff currently running app</string>
+</resources>
